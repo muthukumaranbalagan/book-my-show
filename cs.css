@@ -1,0 +1,5 @@
+.image1{
+ background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url(./upper.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
